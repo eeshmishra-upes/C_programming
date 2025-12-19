@@ -5,7 +5,7 @@ int main()
 
    double pi = 3.141592653589793;
 
-   printf("The value of pi is %lf ", pi );
+   printf("The value of pi is %lf", pi);
 
     return 0;
 }
